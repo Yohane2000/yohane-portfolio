@@ -82,7 +82,7 @@ export default function CaseStudyPage({ slug }: { slug: string }) {
       <header className="border-b border-[var(--line)]">
         <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-6 py-5">
           <Link href="/" className="shrink-0 text-xl font-bold tracking-tight">
-            YOHANE<span className="text-[#C5F467]">®</span>
+            YOHANE-WAGRA <span className="text-[#C5F467]"> ®</span>
           </Link>
 
           <div className="flex items-center gap-3 sm:gap-5">
